@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weds360-task-blog/static/css/main.db794abd.chunk.css",
+    "main.js": "/weds360-task-blog/static/js/main.903f18fc.chunk.js",
+    "main.js.map": "/weds360-task-blog/static/js/main.903f18fc.chunk.js.map",
+    "runtime-main.js": "/weds360-task-blog/static/js/runtime-main.354eeb3c.js",
+    "runtime-main.js.map": "/weds360-task-blog/static/js/runtime-main.354eeb3c.js.map",
+    "static/js/2.42173e5b.chunk.js": "/weds360-task-blog/static/js/2.42173e5b.chunk.js",
+    "static/js/2.42173e5b.chunk.js.map": "/weds360-task-blog/static/js/2.42173e5b.chunk.js.map",
+    "static/js/3.7821534f.chunk.js": "/weds360-task-blog/static/js/3.7821534f.chunk.js",
+    "static/js/3.7821534f.chunk.js.map": "/weds360-task-blog/static/js/3.7821534f.chunk.js.map",
+    "index.html": "/weds360-task-blog/index.html",
+    "static/css/main.db794abd.chunk.css.map": "/weds360-task-blog/static/css/main.db794abd.chunk.css.map",
+    "static/js/2.42173e5b.chunk.js.LICENSE.txt": "/weds360-task-blog/static/js/2.42173e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.354eeb3c.js",
+    "static/js/2.42173e5b.chunk.js",
+    "static/css/main.db794abd.chunk.css",
+    "static/js/main.903f18fc.chunk.js"
+  ]
+}
